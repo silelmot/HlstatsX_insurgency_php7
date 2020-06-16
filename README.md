@@ -19,4 +19,8 @@ i just had one tester besides me (thanks to <b>slampemil</b> and his https://gay
 so if stuff didn't work, pls send me an issue<br>
 <br>
 till i find time to write my own <b>wiki</b> or <b>how to</b> very good ones can be find on the site of NomiCZ<br>
-
+<br>
+<br>
+<u>Differences to Hlstatsx:ce:</u><br>
+In Server-Settings you now can Chose "<b>Ignore Bots  1</b> /old way .. or<b> 2</b> /ignore but count kills etc. for stats"<br>
+Awards can be set negative in Awards-Settings on Web-Admin-Panel<br>
