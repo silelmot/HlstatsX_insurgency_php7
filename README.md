@@ -21,8 +21,6 @@ so if stuff didn't work, pls send me an issue<br>
 till i find time to write my own <b>wiki</b> or <b>how to</b> very good ones can be find on the site of NomiCZ<br>
 <br>
 <br>
-Differences to Hlstatsx:ce:<br>
-<br>
-In Server-Settings you now can Chose "Ignore Bots  1 /old way .. or 2 /ignore but count kills etc. for stats"<br>
-Google Auth-Key for a working worldview can be added in HlstatsX Settings again<br>
+<u>Differences to Hlstatsx:ce:</u><br>
+In Server-Settings you now can Chose "<b>Ignore Bots  1</b> /old way .. or<b> 2</b> /ignore but count kills etc. for stats"<br>
 Awards can be set negative in Awards-Settings on Web-Admin-Panel<br>
