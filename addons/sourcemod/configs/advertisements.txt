@@ -1,0 +1,13 @@
+"Advertisements"
+{
+        "4"
+        {
+                "type"          "S"
+                "text"          "HlstatsX und Bestenliste auf unserer Homepage"
+        }
+        "10"
+        {
+                "type"          "S"
+                "text"          "Viel Spaß auf unserem Server!"
+        }
+}
