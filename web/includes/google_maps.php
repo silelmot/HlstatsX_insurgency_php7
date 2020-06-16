@@ -415,5 +415,4 @@ function printMapType($maptype)
 	}
 	echo "\n";
 }
-echo "test"
 ?>
