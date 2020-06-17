@@ -6,9 +6,7 @@ WARNING: Heatmap generation will consume alot of processor time.  Please be sure
 
 Install:
 	- change user, password, database and path to your "web" folder in config.inc.php
-	- download the appropriate heatmap pack from www.hlxcommunity.com and put into "src"
-
+	- download your heatmap pack from somewhere... i dont know... insurgency-maps are in this pack
+	
 To generate heatmaps:
 	- run: php generate.php
-
-report problems to hlx forums or irc
