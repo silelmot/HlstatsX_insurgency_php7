@@ -1483,6 +1483,7 @@ public Action:Event_PlayerDeath(Handle:event, const String:name[], bool:dontBroa
 	if (GetClientTeam(attacker) == GetClientTeam(victim)) {
 		g_weapon_stats[attacker][weapon_index][LOG_HIT_TEAMKILLS]++;
 		g_round_stats[attacker][STAT_TEAMKILLS]++;
+		LogPlayerEvent(attacker, "triggered", "teamkill");
 	}
 	
 	//PrintToChat(attacker, "Kills: %d", g_weapon_stats[attacker][weapon_index][LOG_HIT_KILLS]);
